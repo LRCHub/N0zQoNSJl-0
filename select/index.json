@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Midas Touch",
+  "base_artist": "KISS OF LIFE",
+  "createdAt": "2026-02-13T08:43:45.955205Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Saxon",
+      "has_synced": true,
+      "path": "select/01_Midas_Touch_Saxon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/02_Midas_Touch_Saxon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Midnight Star",
+      "has_synced": false,
+      "path": "select/03_Midas_Touch_Midnight_Star.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Zacari",
+      "has_synced": true,
+      "path": "select/04_Midas_Touch_Zacari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Zacari",
+      "has_synced": true,
+      "path": "select/05_Midas_Touch_Zacari.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "AURORA",
+      "has_synced": true,
+      "path": "select/06_Midas_Touch_AURORA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midas Touch [Ellie Goulding x BURNS]",
+      "artist": "Ellie Goulding feat. BURNS",
+      "has_synced": true,
+      "path": "select/07_Midas_Touch_[Ellie_Goulding_x_BURNS]_Ellie_Goulding_feat._BURNS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Ellie Goulding X BURNS",
+      "has_synced": true,
+      "path": "select/08_Midas_Touch_Ellie_Goulding_X_BURNS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Midas Touch [Ellie Goulding x BURNS]",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/09_Midas_Touch_[Ellie_Goulding_x_BURNS]_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Pallas",
+      "has_synced": false,
+      "path": "select/10_Midas_Touch_Pallas.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Ellie Goulding × BURNS",
+      "has_synced": true,
+      "path": "select/11_Midas_Touch_Ellie_Goulding_×_BURNS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Midas Touch [Ellie Goulding x BURNS]",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/12_Midas_Touch_[Ellie_Goulding_x_BURNS]_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Ashley Roberts",
+      "has_synced": false,
+      "path": "select/13_Midas_Touch_Ashley_Roberts.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Midas Touch (Bonus Track)",
+      "artist": "Ellie Goulding feat. BURNS",
+      "has_synced": true,
+      "path": "select/14_Midas_Touch_(Bonus_Track)_Ellie_Goulding_feat._BURNS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/15_Midas_Touch_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Midas Touch",
+      "artist": "Kodak Black",
+      "has_synced": true,
+      "path": "select/16_Midas_Touch_Kodak_Black.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midas Touch",
+      "artist": "KISS OF LIFE",
+      "has_synced": false,
+      "path": "select/pl_01_Midas_Touch_KISS_OF_LIFE.txt"
+    }
+  ]
+}
